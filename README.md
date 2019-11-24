@@ -6,9 +6,12 @@
                                  /  |  \
                                 /   |   \
                                B    C    D
-                                    |
-                                    |
-                                    F
+                              /     |
+                             /      | 
+                            E       H
+                           / \    
+                          /   \  
+                         F     G
 
-Depth First Traversal : [A, B, C, F, D] 
+Depth First Traversal : [A, B, E, F, G, C, H, D] 
                                     
