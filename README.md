@@ -13,5 +13,5 @@
                           /   \  
                          F     G
 
-## Depth First Traversal : [A, B, E, F, G, C, H, D] 
+Depth First Traversal : [A, B, E, F, G, C, H, D] 
                                     
